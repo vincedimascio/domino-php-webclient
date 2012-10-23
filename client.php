@@ -9,7 +9,7 @@
 */
 
 // globals
-$base_url = "http://myserver.com";
+$base_url = "https://myserver.com";
 $webdbname = "/path/to/file/db.nsf";
 $username = "jsmith";
 $password = "pa66word";
